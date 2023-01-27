@@ -10,6 +10,7 @@ body {
     display: flex;
     border: 1px dotted blue;
     padding: 20px;
+    justify-content: space-around;
 }
 
 .blue-border {
